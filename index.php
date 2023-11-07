@@ -47,7 +47,7 @@ table {
     </div>
     <div class="col-sm-4">
          
-      <a href="registro.php" class="btn btn-warning" role="button">INICIAR SESION</a>
+      <a href="registro.php" class="btn btn-warning" role="button">REGISTRAR</a>
       
     </div>
   </div>
